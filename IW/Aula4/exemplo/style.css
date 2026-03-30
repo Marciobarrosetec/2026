@@ -1,0 +1,25 @@
+body {
+    background: #f5f7fb;
+  }
+
+  .card-custom {
+    border: none;
+    border-radius: 15px;
+    transition: 0.3s;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+
+  .card-custom:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  }
+
+  .btn-custom {
+    border-radius: 30px;
+  }
+
+  .result-card {
+    border-radius: 15px;
+    background: #ffffff;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  }
